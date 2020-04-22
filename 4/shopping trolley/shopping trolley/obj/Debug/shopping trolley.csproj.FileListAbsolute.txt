@@ -1,0 +1,7 @@
+E:\Nunit\shopping trolley\shopping trolley\bin\Debug\shopping trolley.dll
+E:\Nunit\shopping trolley\shopping trolley\bin\Debug\shopping trolley.pdb
+E:\Nunit\shopping trolley\shopping trolley\bin\Debug\nunit.framework.dll
+E:\Nunit\shopping trolley\shopping trolley\bin\Debug\nunit.framework.xml
+E:\Nunit\shopping trolley\shopping trolley\obj\Debug\shopping trolley.csprojResolveAssemblyReference.cache
+E:\Nunit\shopping trolley\shopping trolley\obj\Debug\shopping trolley.dll
+E:\Nunit\shopping trolley\shopping trolley\obj\Debug\shopping trolley.pdb

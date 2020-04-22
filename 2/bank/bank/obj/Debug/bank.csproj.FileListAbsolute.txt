@@ -1,0 +1,7 @@
+E:\Nunit\bank\bank\bin\Debug\bank.dll
+E:\Nunit\bank\bank\bin\Debug\bank.pdb
+E:\Nunit\bank\bank\bin\Debug\nunit.framework.dll
+E:\Nunit\bank\bank\bin\Debug\nunit.framework.xml
+E:\Nunit\bank\bank\obj\Debug\bank.csprojResolveAssemblyReference.cache
+E:\Nunit\bank\bank\obj\Debug\bank.dll
+E:\Nunit\bank\bank\obj\Debug\bank.pdb

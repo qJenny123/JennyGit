@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="E:\Nunit\5\Fax\Fax\bin\Debug\Fax.dll" total="1" errors="0" failures="1" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2018-07-16" time="09:43:22">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8933" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="E:\Nunit\5\Fax\Fax\bin\Debug" machine-name="DESKTOP-0JALUIO" user="陆紫荆" user-domain="DESKTOP-0JALUIO" />
+  <culture-info current-culture="zh-CN" current-uiculture="zh-CN" />
+  <test-suite type="Assembly" name="E:\Nunit\5\Fax\Fax\bin\Debug\Fax.dll" executed="True" result="Failure" success="False" time="0.060" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Fax" executed="True" result="Failure" success="False" time="0.053" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="FaxTest" executed="True" result="Failure" success="False" time="0.052" asserts="0">
+            <results>
+              <test-case name="Fax.FaxTest.SendFaxTest" executed="True" result="Failure" success="False" time="0.043" asserts="1">
+                <failure>
+                  <message><![CDATA[  Expected: True
+  But was:  False
+]]></message>
+                  <stack-trace><![CDATA[在 Fax.FaxTest.SendFaxTest() 位置 E:\Nunit\5\Fax\Fax\FaxTest.cs:行号 17
+]]></stack-trace>
+                </failure>
+              </test-case>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

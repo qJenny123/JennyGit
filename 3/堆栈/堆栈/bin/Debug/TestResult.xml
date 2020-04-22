@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="E:\Nunit\堆栈\堆栈\bin\Debug\堆栈.dll" total="2" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2018-07-12" time="18:54:33">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8922" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="E:\Nunit\堆栈\堆栈\bin\Debug" machine-name="DESKTOP-0JALUIO" user="陆紫荆" user-domain="DESKTOP-0JALUIO" />
+  <culture-info current-culture="zh-CN" current-uiculture="zh-CN" />
+  <test-suite type="Assembly" name="E:\Nunit\堆栈\堆栈\bin\Debug\堆栈.dll" executed="True" result="Success" success="True" time="0.085" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="堆栈" executed="True" result="Success" success="True" time="0.078" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="StackTest" executed="True" result="Success" success="True" time="0.060" asserts="0">
+            <results>
+              <test-case name="堆栈.StackTest.TestPop" executed="True" result="Success" success="True" time="0.039" asserts="1" />
+              <test-case name="堆栈.StackTest.TestTop" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

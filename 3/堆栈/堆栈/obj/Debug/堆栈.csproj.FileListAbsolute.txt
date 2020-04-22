@@ -1,0 +1,7 @@
+E:\Nunit\堆栈\堆栈\bin\Debug\堆栈.dll
+E:\Nunit\堆栈\堆栈\bin\Debug\堆栈.pdb
+E:\Nunit\堆栈\堆栈\bin\Debug\nunit.framework.dll
+E:\Nunit\堆栈\堆栈\bin\Debug\nunit.framework.xml
+E:\Nunit\堆栈\堆栈\obj\Debug\堆栈.csprojResolveAssemblyReference.cache
+E:\Nunit\堆栈\堆栈\obj\Debug\堆栈.dll
+E:\Nunit\堆栈\堆栈\obj\Debug\堆栈.pdb

@@ -1,0 +1,7 @@
+E:\Nunit\Nunitstudy\Nunitstudy\bin\Debug\Nunitstudy.dll
+E:\Nunit\Nunitstudy\Nunitstudy\bin\Debug\Nunitstudy.pdb
+E:\Nunit\Nunitstudy\Nunitstudy\bin\Debug\nunit.framework.dll
+E:\Nunit\Nunitstudy\Nunitstudy\bin\Debug\nunit.framework.xml
+E:\Nunit\Nunitstudy\Nunitstudy\obj\Debug\Nunitstudy.csprojResolveAssemblyReference.cache
+E:\Nunit\Nunitstudy\Nunitstudy\obj\Debug\Nunitstudy.dll
+E:\Nunit\Nunitstudy\Nunitstudy\obj\Debug\Nunitstudy.pdb

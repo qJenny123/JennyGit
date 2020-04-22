@@ -1,0 +1,13 @@
+E:\Nunit\Fax\Fax\bin\Debug\Fax.dll
+E:\Nunit\Fax\Fax\bin\Debug\Fax.pdb
+E:\Nunit\Fax\Fax\bin\Debug\nunit.framework.dll
+E:\Nunit\Fax\Fax\bin\Debug\nunit.framework.xml
+E:\Nunit\Fax\Fax\obj\Debug\Fax.dll
+E:\Nunit\Fax\Fax\obj\Debug\Fax.pdb
+E:\Nunit\5\Fax\Fax\bin\Debug\Fax.dll
+E:\Nunit\5\Fax\Fax\bin\Debug\Fax.pdb
+E:\Nunit\5\Fax\Fax\bin\Debug\nunit.framework.dll
+E:\Nunit\5\Fax\Fax\bin\Debug\nunit.framework.xml
+E:\Nunit\5\Fax\Fax\obj\Debug\Fax.csprojResolveAssemblyReference.cache
+E:\Nunit\5\Fax\Fax\obj\Debug\Fax.dll
+E:\Nunit\5\Fax\Fax\obj\Debug\Fax.pdb

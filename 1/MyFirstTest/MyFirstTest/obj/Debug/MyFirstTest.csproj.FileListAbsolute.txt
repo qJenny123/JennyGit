@@ -1,0 +1,7 @@
+E:\Nunit\MyFirstTest\MyFirstTest\bin\Debug\MyFirstTest.dll
+E:\Nunit\MyFirstTest\MyFirstTest\bin\Debug\MyFirstTest.pdb
+E:\Nunit\MyFirstTest\MyFirstTest\bin\Debug\nunit.framework.dll
+E:\Nunit\MyFirstTest\MyFirstTest\bin\Debug\nunit.framework.xml
+E:\Nunit\MyFirstTest\MyFirstTest\obj\Debug\MyFirstTest.csprojResolveAssemblyReference.cache
+E:\Nunit\MyFirstTest\MyFirstTest\obj\Debug\MyFirstTest.dll
+E:\Nunit\MyFirstTest\MyFirstTest\obj\Debug\MyFirstTest.pdb

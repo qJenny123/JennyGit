@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="E:\Nunit\bank\bank\bin\Debug\bank.dll" total="2" errors="0" failures="0" not-run="1" inconclusive="0" ignored="1" skipped="0" invalid="0" date="2018-07-11" time="18:37:08">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8922" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="E:\Nunit\bank\bank\bin\Debug" machine-name="DESKTOP-0JALUIO" user="陆紫荆" user-domain="DESKTOP-0JALUIO" />
+  <culture-info current-culture="zh-CN" current-uiculture="zh-CN" />
+  <test-suite type="Assembly" name="E:\Nunit\bank\bank\bin\Debug\bank.dll" executed="True" result="Success" success="True" time="0.170" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="bank" executed="True" result="Success" success="True" time="0.162" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="AccountTest" executed="True" result="Success" success="True" time="0.161" asserts="0">
+            <results>
+              <test-case name="bank.AccountTest.TransferFunds" executed="True" result="Success" success="True" time="0.097" asserts="2" />
+              <test-case name="bank.AccountTest.TransferWithInsufficientFunds" executed="True" result="Success" success="True" time="0.025" asserts="0" />
+              <test-case name="bank.AccountTest.TransferWithInsufficientFundsAtomicity" executed="False" result="Ignored">
+                <reason>
+                  <message><![CDATA[Need to decide how to implement transaction management in the application]]></message>
+                </reason>
+              </test-case>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
